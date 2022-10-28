@@ -83,6 +83,7 @@
 ### 2022年6月6号添加
 ---
 #### hzlzh自力（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://twitter.com/hzlzh)
+* :white_check_mark: [锁屏启动](https://apps.apple.com/cn/app/id1636719674)：一键打开：健康码/扫一扫/行程码/付款码/电池/时钟/灵动岛
 * :white_check_mark: [MenubarX](https://MenubarX.app)：一款强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用
 * :white_check_mark: [念念不忘](https://buwang.app/)：一款简单粗暴的 iOS 提醒小组件
 * :white_check_mark: [WordleX](https://wordlex.app/)：一款 Wordle 游戏的练习工具
