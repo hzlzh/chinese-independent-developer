@@ -470,6 +470,7 @@
 ### 2022年6月6号添加
 ---
 #### hzlzh自力（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://twitter.com/hzlzh)
+* :white_check_mark: [DockX (macOS)](https://DockX.app)：在 Dock 程序坞和菜单栏上显示任何内容，方便高效，无需打开
 * :white_check_mark: [MenubarX (macOS)](https://MenubarX.app)：一款强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用
 * :white_check_mark: [锁屏启动 (iOS)](https://LockLauncher.app)：丰富小组件、灵动岛网速/天气/步数等
 * :white_check_mark: [ChatX (iOS/macOS)](https://6x.studio/chatx/)：一款强大的 ChatGPT 客户端
